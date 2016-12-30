@@ -1,0 +1,6 @@
+{
+    "require": {
+        "freshheads/postcode-api-client": "^2.0",
+        "joshcam/mysqli-database-class": "dev-master"
+    }
+}
